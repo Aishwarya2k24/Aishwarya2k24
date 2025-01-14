@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aishwarya
-- 👀 I’m interested in Full Stack development And Deep Learning 
+- 👀 I’m interested in Full Stack development 
 - 🌱 I’m Graduated MCA 2024
 - 💞️ I’m looking to collaborate on ...
 - 📫 https://www.linkedin.com/in/aishwaryakurumkar/
